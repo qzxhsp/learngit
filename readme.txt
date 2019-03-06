@@ -7,4 +7,9 @@ Creating a new branch is quick & simple
 =======
 Creating a new branch is quick and simple
 >>>>>>> featurel
-add datas
+<<<<<<< HEAD
+add data
+=======
+add data
+div stash
+>>>>>>> dev
